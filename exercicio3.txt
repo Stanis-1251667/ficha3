@@ -6,7 +6,7 @@ E.D: n1, n2, diferença inteiro
 
 Escrever("Quais são os dois números?")
 Ler(n1, n2)
-diferença <-- n1 - n2
+diferença <-- n1 - n2 a
 Escrever(n1 +"-"+ n2 +"="+ diferença)
 
 Fim
