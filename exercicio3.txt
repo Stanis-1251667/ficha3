@@ -1,12 +1,12 @@
 Algoritmo Soma
 
-E.D: n1, n2, soma inteiro
+E.D: n1, n2, diferença inteiro
 
 Ínicio
 
 Escrever("Quais são os dois números?")
 Ler(n1, n2)
-soma <-- n1 + n2
-Escrever(n1 +"+"+ n2 +"="+ soma)
+diferença <-- n1 - n2
+Escrever(n1 +"-"+ n2 +"="+ diferença)
 
 Fim
